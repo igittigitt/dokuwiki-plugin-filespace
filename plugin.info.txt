@@ -1,0 +1,7 @@
+base   filespace
+author Oliver Geisen
+email  oliver@rehkopf-geisen.de
+date   2017-07-06
+name   filespace plugin
+desc   Build and synchronize a directory structure, following the namespace-tree on a remote Windows fileserver
+url    https://github.com/igittigitt/dokuwiki-plugin-filespace
